@@ -13,7 +13,7 @@ yesBtn.addEventListener("click", () => {
     gif.src =
       "https://i.pinimg.com/originals/55/3d/42/553d42bea9b10e0662a05aa8726fc7f4.gif ";
   } else if (yesClickCount === 2) {
-    window.open("https://www.facebook.com/mtraamanh", "_blank");
+    window.open("https://www.facebook.com/ndfhu", "_blank");
   }
 });
 
